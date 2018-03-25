@@ -10,6 +10,7 @@ Caitlin Meyer is a Research & Education Librarian at Yale's Cushing/Whitney Medi
 
 ### University of California, Los Angeles
 Master of Library & Information Science, 2017
+[Master's Portfolio](https://drive.google.com/file/d/0B0sK1eOQQltraEZXZDU4OXFZNEU/view)
 
 ### Vanderbilt University
 Bachelor of Arts, Communication Studies, 2013
@@ -36,6 +37,7 @@ management system, and broadly online with assessment activities included to pro
 evidence of engagement and learning.
 - Designed and implemented a digital asset management strategy for the team in Box
 including folder structure, naming conventions, version control, and access.
+
 
 ### UCLA Department of Communication
 **Teaching Assistant, 2015 - 2017**
