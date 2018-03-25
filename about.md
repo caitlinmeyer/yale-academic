@@ -4,7 +4,7 @@ title: About
 description: Caitlin Meyer is a librarian at Yale's Cushing/Whitney Medical Library.
 ---
 ## About
-Caitlin Meyer is a Research & Education Librarian at Yale's Cushing/Whitney Medical Library. When she's not working, you can find her kayaking, hiking, dancing to bluegrass music, or sipping a fine IPA. 
+Caitlin Meyer is a Research & Education Librarian at Yale's Cushing/Whitney Medical Library. When she's not working, you can find her kayaking, hiking, dancing to bluegrass music, or checking out a new brewery.
 
 ## Education
 
