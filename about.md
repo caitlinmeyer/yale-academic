@@ -10,6 +10,7 @@ Caitlin Meyer is a Research & Education Librarian at Yale's Cushing/Whitney Medi
 
 ### University of California, Los Angeles
 Master of Library & Information Science, 2017
+
 [Master's Portfolio](https://drive.google.com/file/d/0B0sK1eOQQltraEZXZDU4OXFZNEU/view)
 
 ### Vanderbilt University
