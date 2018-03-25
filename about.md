@@ -1,33 +1,48 @@
 ---
 layout: page
-title: About Monochrome
-description: This page describes monochrome.
+title: About
+description: Caitlin Meyer is a librarian at Yale's Cushing/Whitney Medical Library.
 ---
 ## About
 Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
 
-## Features
+## Education
 
-- Completely responsive and mobile first
-- Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
-- SEO title/description integration
-- Sitemap ready
-- Easy customization for header, footer, navigation links, colors, favicon etc
-- Default Monochrome Color Palette - black, white, greys
+### University of California, Los Angeles
+Master of Library & Information Science, 2017
 
-### Setup
+### Vanderbilt University
+Bachelor of Arts, Communication Studies, 2013
 
-Monochrome may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/thereviewindex/monochrome/archive/master.zip).
+## Recent Experience
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/monochrome/`` and you will find it there.
+### Cushing/Whitney Medical Library, Yale University 
+**Research & Education Librarian, 2017 - present**
+- Coordinate general library instruction program, developing and teaching classes on citation management, literature searching, research impact, and more.
+- Teach evidence-based skills and literature searching in the curriculum for medical students and PA students online and on the ground.
+- Create and deploy animated videos, guides, and tools to promote library resources/services and teach library-related skills.
+- Manage the medical library Personal Librarian program.
+- Founded and leads medical library Instruction Community of Practice group.
+- Serves on medical library marketing committee and university-wide Research, Instruction & Outreach committee.
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Monochrome in the root. 
+### Louise M. Darling Biomedical Library, UCLA
+**Inquiry Specialist, 2016 - 2017**
+- Built online instructional modules (interactive slideshows, videos, static pages, HTML5
+content) using tools such as Camtasia, Videoscribe, and Github targeted at bettering
+undergraduate students’ research and writing skills.
+- Conducted user testing through interviews and surveys, then deployed the modules both in
+departments such as Psychology and Ecology & Evolutionary Biology, the campus learning
+management system, and broadly online with assessment activities included to provide
+evidence of engagement and learning.
+- Designed and implemented a digital asset management strategy for the team in Box
+including folder structure, naming conventions, version control, and access.
 
-
-
-For further details on Monochrome, please visit the [repository on Github](https://github.com/thereviewindex/monochrome/).
-
-![Monochrome](img/monochrome01.png "monochrome")
+### UCLA Department of Communication
+**Teaching Assistant, 2015 - 2017**
+- Taught foundational communication studies concepts to approximately 75 students
+per quarter across three discussion sections and managed course assignments.
+- Created interactive, engaging presentations and activities for weekly meetings including
+structured group work, games, student-led presentations, and more.
 
 
 
