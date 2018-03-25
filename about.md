@@ -4,7 +4,7 @@ title: About
 description: Caitlin Meyer is a librarian at Yale's Cushing/Whitney Medical Library.
 ---
 ## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+Caitlin Meyer is a Research & Education Librarian at Yale's Cushing/Whitney Medical Library. When she's not working, you can find her kayaking, hiking, dancing to bluegrass music, or sipping a fine IPA. 
 
 ## Education
 
