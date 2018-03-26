@@ -9,4 +9,5 @@ Despite the wealth of resources Yale provides access to, usage is often concentr
 Check out the November feature on [Access Medicine](https://library.medicine.yale.edu/blog/medical-library/resource-spotlight-accessmedicine) and the December feature on [Pharmaprojects](https://library.medicine.yale.edu/blog/medical-library/resource-spotlight-pharmaprojects). 
 
 Here's an example of the great graphics by [Rosa](http://rosamcelheny.com):
+
 ![resource spotlight example banner](https://caitlinmeyer.github.io/library-blog/img/spotlight.png)
