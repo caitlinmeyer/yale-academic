@@ -29,7 +29,7 @@ Thursday, March 22nd at 11:30 AM
 During this game (class), we will compare the differences between these two point of care tools. We will assess the validity of the information, the currency of their resources, and the different perks of the two products, including calculators, guidelines, patient education information, and more. Come to this class to help you decide which tool is best for you and your patient care. Refereed by Alexandria Brackett. 
 
 ## Citation Management
-### EndNote vs Zotero**
+### EndNote vs Zotero
 
 Both EndNote and Zotero help you manage your references and PDFs, make the creation of bibliographies a breeze, and integrate into paper-writing software such as Microsoft Word for easy citing while you're writing. Both are free. Which is right for you? Which does what better? Come decide for yourself with a showdown refereed by Caitlin Meyer. 
 
