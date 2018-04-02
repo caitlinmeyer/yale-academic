@@ -12,8 +12,9 @@ description: Selected projects from librarian Caitlin Meyer
 
 This project utilized videos, gifs, and the reveal.js framework to create a robust introduction to the citation management software Zotero. My part of this project included determining the information architecture of the slideshow, screencasting for one of the videos, writing copy, creating gifs, and modifying HTML to produce the slides. I got to make a [poster](https://caitlinmeyer.github.io/docs/2017-code4lib.pdf) and [present](http://2017.code4lib.org/posters/Reimagining-the-slideshow-using-revealjs-to-create-Choose-Your-Own-Adventure-library-tutorials) at the 2017 Code4Lib conference on this project.
 
-<iframe src="https://uclalibrary.github.io/research-tips/embeds/zotero/" width="75%" height="400px"></iframe>
-
+<div class="video-responsive">
+<iframe src="https://uclalibrary.github.io/research-tips/embeds/zotero/" width="600px" height="400px"></iframe>
+</div>
 
 ### Navigating the Undergraduate Research Portal - For Faculty
 
