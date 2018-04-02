@@ -5,7 +5,10 @@ description: Selected projects from librarian Caitlin Meyer
 ---
 
 ## Selected Projects
+## Yale, 2017 - present
 
+### Instructional Media Toolkit
+This one's kind of meta. I serve on the Research, Outreach & Instruction committee and was asked to put together a toolkit for producing online learning objects. So what better way to do so than a static webpage hosted by Github? I wanted to share with colleagues tools, examples, and other information they'll need to jump into this arena. [View the toolkit here.](https://caitlinmeyer.github.io/instructional-media/)
 
 ## UCLA, 2016 - 2017
 
