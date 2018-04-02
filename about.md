@@ -11,7 +11,7 @@ description: Caitlin Meyer is a librarian at Yale's Cushing/Whitney Medical Libr
 ### University of California, Los Angeles
 Master of Library & Information Science, 2017
 
-[Master's Portfolio](https://drive.google.com/file/d/0B0sK1eOQQltraEZXZDU4OXFZNEU/view)
+[Master's Portfolio](https://caitlinmeyer.github.io/library-blog/docs/masters-portfolio.pdf)
 
 ### Vanderbilt University
 Bachelor of Arts, Communication Studies, 2013
@@ -46,6 +46,10 @@ including folder structure, naming conventions, version control, and access.
 per quarter across three discussion sections and managed course assignments.
 - Created interactive, engaging presentations and activities for weekly meetings including
 structured group work, games, student-led presentations, and more.
+
+For my resume, see the link in the navigation bar.
+
+
 
 
 
