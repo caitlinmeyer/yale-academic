@@ -19,4 +19,5 @@ This project utilized videos, gifs, and the reveal.js framework to create a robu
 
 This was a quick project done for the Undergraduate Research Centers at UCLA, who wanted to teach faculty and students how to use their new undergraduate research portal. There are two versions - one for students, one for faculty. You'll find the faculty version below. I wrote the initial script, did the screencasting in Camtasia, and assembled the final product.
 
-<iframe width="75%" src="https://www.youtube.com/embed/tQYw68pQXOk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQYw68pQXOk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
