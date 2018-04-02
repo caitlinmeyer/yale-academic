@@ -10,6 +10,12 @@ description: Selected projects from librarian Caitlin Meyer
 ### Instructional Media Toolkit
 This one's kind of meta. I serve on the Research, Outreach & Instruction committee and was asked to put together a toolkit for producing online learning objects. So what better way to do so than a static webpage hosted by Github? I wanted to share with colleagues tools, examples, and other information they'll need to jump into this arena. [View the toolkit here.](https://caitlinmeyer.github.io/instructional-media/)
 
+### Bioinformatics at Yale 
+Yale started its bioinformatics support program in 2014 with the hiring of my colleague Rolando Garcia-Milian. In that time, he's built a robust suite of resources and services for Yale affiliates that only continues to grow in popularity. This video aims to specifically illustrate where our services fit in. To create this video, I used Hype3, Camtasia, and Audacity. I also created vectorized versions of the database logos in Adobe Illustrator.
+
+<div class="video-responsive"><iframe src="https://player.vimeo.com/video/238943541?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+
 ## UCLA, 2016 - 2017
 
 The following work was made as part of the WI+RE (Writing Instruction & Research Education) group - a grant-funded, cross campus collaborative team housed in the UCLA Louise M. Darling Biomedical Library that makes multimedia online learning modules to help undergraduates further develop crucial writing and research skills. Check out the team's [website](https://uclalibrary.github.io/research-tips/). It was a foundational and super fun experience. Our toolkit included Adobe Suite, Audacity, Camtasia, Hype3, and Videoscribe for media production and Box, Github, Google Docs, and Trello for project management. I worked in every stage of module production (learning objectives, scripting, recording, producing visuals), as well as conducting user testing, learning management system implementation, and promotion.
