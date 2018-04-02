@@ -14,4 +14,4 @@ Here's what it looks like,
 ![guide screenshot](https://caitlinmeyer.github.io/library-blog/img/rssfeeds.png)
 
 
-and you can [find the guide here](https://guides.library.yale.edu/onlinePA).
+and you can find the guide [here](https://guides.library.yale.edu/onlinePA).
