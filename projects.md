@@ -8,6 +8,9 @@ description: Selected projects from librarian Caitlin Meyer
 
 
 ## UCLA, 2016 - 2017
+
+The following work was made as part of the WI+RE (Writing Instruction & Research Education) group - a grant-funded, cross campus collaborative team housed in the UCLA Louise M. Darling Biomedical Library that makes multimedia online learning modules to help undergraduates further develop crucial writing and research skills. Check out the team's [website](https://uclalibrary.github.io/research-tips/). It was a foundational and super fun experience. Our toolkit included Adobe Suite, Audacity, Camtasia, Hype3, and Videoscribe for media production and Box, Github, Google Docs, and Trello for project management. I worked in every stage of module production (learning objectives, scripting, recording, producing visuals), as well as conducting user testing, learning management system implementation, and promotion.
+
 ### Introduction to Zotero
 
 This project utilized videos, gifs, and the reveal.js framework to create a robust introduction to the citation management software Zotero. My part of this project included determining the information architecture of the slideshow, screencasting for one of the videos, writing copy, creating gifs, and modifying HTML to produce the slides. I got to make a [poster](https://caitlinmeyer.github.io/docs/2017-code4lib.pdf) and [present](http://2017.code4lib.org/posters/Reimagining-the-slideshow-using-revealjs-to-create-Choose-Your-Own-Adventure-library-tutorials) at the 2017 Code4Lib conference on this project.
@@ -15,6 +18,15 @@ This project utilized videos, gifs, and the reveal.js framework to create a robu
 <div class="video-responsive">
 <iframe src="https://uclalibrary.github.io/research-tips/embeds/zotero/" width="600px" height="400px"></iframe>
 </div>
+
+### Creating a Literature Review 
+
+This video was intended to be the introduction to the entire literature review instructional sequence, illustrating to students the usefulness of the genre of writing for a variety of disciplines and situations.
+I wrote the script, created the visuals in Hype3, and edited together the final product.
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u-jg92ZjObg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 
 ### Navigating the Undergraduate Research Portal - For Faculty
 
