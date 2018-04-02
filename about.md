@@ -6,21 +6,21 @@ description: Caitlin Meyer is a librarian at Yale's Cushing/Whitney Medical Libr
 ## About
 ![headshot](http://caitlinmeyer.github.io/library-blog/img/headshot.png) Hi, I'm Caitlin. I'm a Research & Education Librarian at Yale's Cushing/Whitney Medical Library. I'm interested in all things learning - whether it's in person or online. I'm new to New England by way of Missouri, Tennessee, and, most recently, California. When I'm not working, you can find me kayaking, hiking, dancing to bluegrass music, or checking out a new brewery.
 
-[Feel free to reach out!](mailto:caitlin.e.meyer@gmail.com) 
+__[Feel free to reach out!]__(mailto:caitlin.e.meyer@gmail.com)
 
 ## Education
 
 ### University of California, Los Angeles
-Master of [Library & Information Science](https://is.gseis.ucla.edu/), 2017
+Master of __[Library & Information Science]__(https://is.gseis.ucla.edu/), 2017
 
 [Master's Portfolio](https://caitlinmeyer.github.io/library-blog/docs/masters-portfolio.pdf)
 
 ### Vanderbilt University
-Bachelor of Arts, [Communication Studies](https://as.vanderbilt.edu/communication/), 2013
+Bachelor of Arts, __[Communication Studies]__(https://as.vanderbilt.edu/communication/), 2013
 
 ## Recent Experience
 
-### [Cushing/Whitney Medical Library](https://library.medicine.yale.edu/), Yale University 
+### __[Cushing/Whitney Medical Library]__(https://library.medicine.yale.edu/), Yale University 
 **Research & Education Librarian, 2017 - present**
 - Coordinate general library instruction program, developing and teaching classes on citation management, literature searching, research impact, and more.
 - Teach evidence-based skills and literature searching in the curriculum for medical students and PA students online and on the ground.
@@ -29,7 +29,7 @@ Bachelor of Arts, [Communication Studies](https://as.vanderbilt.edu/communicatio
 - Founded and leads medical library Instruction Community of Practice group.
 - Serves on medical library marketing committee and university-wide Research, Instruction & Outreach committee.
 
-### [Louise M. Darling Biomedical Library](http://www.library.ucla.edu/biomed), UCLA
+### __[Louise M. Darling Biomedical Library]__(http://www.library.ucla.edu/biomed), UCLA
 **Inquiry Specialist, 2016 - 2017**
 - Built online instructional modules (interactive slideshows, videos, static pages, HTML5
 content) using tools such as Camtasia, Videoscribe, and Github targeted at bettering
@@ -42,7 +42,7 @@ evidence of engagement and learning.
 including folder structure, naming conventions, version control, and access.
 
 
-### [UCLA Department of Communication](http://comm.ucla.edu/)
+### __[UCLA Department of Communication]__(http://comm.ucla.edu/)
 **Teaching Assistant, 2015 - 2017**
 - Taught foundational communication studies concepts to approximately 75 students
 per quarter across three discussion sections and managed course assignments.
