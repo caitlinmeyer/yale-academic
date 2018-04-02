@@ -12,8 +12,7 @@ Feel free to [reach out!](mailto:caitlin.e.meyer@gmail.com)
 
 ### University of California, Los Angeles
 Master of [Library & Information Science](https://is.gseis.ucla.edu/), 2017
-
-[Master's Portfolio](https://caitlinmeyer.github.io/library-blog/docs/masters-portfolio.pdf)
+My master's portfolio is available [here](https://caitlinmeyer.github.io/library-blog/docs/masters-portfolio.pdf).
 
 ### Vanderbilt University
 Bachelor of Arts, [Communication Studies](https://as.vanderbilt.edu/communication/), 2013
