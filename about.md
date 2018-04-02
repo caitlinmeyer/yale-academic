@@ -12,6 +12,7 @@ Feel free to [reach out!](mailto:caitlin.e.meyer@gmail.com)
 
 ### University of California, Los Angeles
 Master of [Library & Information Science](https://is.gseis.ucla.edu/), 2017
+
 My master's portfolio is available [here](https://caitlinmeyer.github.io/library-blog/docs/masters-portfolio.pdf).
 
 ### Vanderbilt University
@@ -48,7 +49,7 @@ per quarter across three discussion sections and managed course assignments.
 - Created interactive, engaging presentations and activities for weekly meetings including
 structured group work, games, student-led presentations, and more.
 
-For my resume, see the link in the navigation bar.
+For my full resume, see the link in the navigation bar.
 
 
 
