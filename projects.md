@@ -6,6 +6,10 @@ description: Selected projects from librarian Caitlin Meyer
 
 ## Selected Projects
 ## Yale, 2017 - present
+### Framing Questions with PICO
+One of the key concepts we teach is the searching framework PICO. We decided that a video explaining it would be useful as a standalone tutorial, a review for students we've seen in the past, and homework to watch prior to future workshops. To create this video, I used Hype3, Camtasia, and Audacity. 
+
+<div class="video-responsive"><iframe src="https://player.vimeo.com/video/264307927?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ### Instructional Media Toolkit
 This one's kind of meta. I serve on the Research, Outreach & Instruction committee and was asked to put together a toolkit for producing online learning objects. So what better way to do so than a static webpage hosted by Github? I wanted to share with colleagues tools, examples, and other information they'll need to jump into this arena. [View the toolkit here.](https://caitlinmeyer.github.io/instructional-media/)
