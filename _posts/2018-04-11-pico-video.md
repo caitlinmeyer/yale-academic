@@ -1,7 +1,7 @@
 ---
-title: New video: Framing Questions with PICO
+title: New video - Framing Questions with PICO
 description: 
-header: New video: Framing Questions with PICO
+header: New video - Framing Questions with PICO
 ---
 This video has been in the works for months and I am happy to see it published today! Thanks to the REED team for script feedback, Jan and Kate for example scenarios, and Kelly for creating the captioning to keep the video up to accessibility standards. I made three version of this video to serve different purposes. Below you'll see the straightforward cut, but there's also one with pauses for the viewer to work the PICO out for themselves, and a public health cut with a discipline-oriented scenario to work through.
   
