@@ -22,12 +22,19 @@ Bachelor of Arts, [Communication Studies](https://as.vanderbilt.edu/communicatio
 
 ### [Cushing/Whitney Medical Library](https://library.medicine.yale.edu/), Yale University 
 **Research & Education Librarian, 2017 - present**
-- Coordinate general library instruction program, developing and teaching classes on citation management, literature searching, research impact, and more.
-- Teach evidence-based skills and literature searching in the curriculum for medical students and PA students online and on the ground.
-- Create and deploy animated videos, guides, and tools to promote library resources/services and teach library-related skills.
-- Manage the medical library Personal Librarian program.
-- Founded and leads medical library Instruction Community of Practice group.
-- Serves on medical library marketing committee and university-wide Research, Instruction & Outreach committee.
+- Manage the medical library instruction program, which includes conducting user needs
+assessments, developing classes, optimizing scheduling, running a peer observation
+program, and leading the medical library Instruction Community of Practice group.
+- Teach workshops in the curriculum for the medical school and general library classes on
+topics such as: evidence-based literature searching, citation management, finding
+research impact metrics, and more.
+- Create and deploy videos, guides, and tools to promote library resources/services and
+teach library-related skills.
+- Coordinate the overall medical library Personal Librarian program and serve as a
+personal librarian for the PA programs and approximately 10 medical students per class.
+- Act as medical library representative on university-wide LibGuide Advisory Group and
+Research, Outreach & Instruction (RIO) Committee; Serve on medical library Marketing
+Committee, Annual Report Committee, and User Experience Design Project Group.
 
 ### [Louise M. Darling Biomedical Library](http://www.library.ucla.edu/biomed), UCLA
 **Inquiry Specialist, 2016 - 2017**
