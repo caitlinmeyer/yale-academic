@@ -1,11 +1,12 @@
 # Site settings
-title: Caitlin Meyer
-description: "A blog on things library, tech, and more."
-url: "http://www.caitlinmeyer.com"
+title: Handsome Dan
+description: "A website about the dog, Handsome Dan."
+url: ""
+
 author:
-  name: "Caitlin Meyer"
-  email: "caitlin.e.meyer@gmail.com"
-  url: "http://caitlinmeyer.com"
+  name: "Handsome Dan"
+  email: "handsome.dan@yale.edu"
+  url: ""
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
