@@ -4,9 +4,9 @@ layout: default
 
 <h1>Hi, I'm Caitlin!</h1>
 <img src="http://caitlinmeyer.github.io/library-blog/img/headshot.png" align="left"  style="padding: 20px"><p style="margin-top:20px"</p>
-Welcome! I'm currently a Research & Education Librarian at Yale's <a href="http://library.medicine.yale.edu">Cushing/Whitney Medical Library</a>, where I coordinate our general education program and make user-friendly guides, tools and, videos that help promote library resources and teach library skills. I'm new to New England by way of Missouri, Tennessee, and, most recently, California. When I'm not working, you can find me kayaking, hiking, dancing to bluegrass music, or checking out a new brewery. Feel free to <a href="mailto:caitlin.e.meyer@gmail.com">reach out, and check out my blog below!</a>
+Welcome! I'm currently a Research & Education Librarian at Yale's <a href="http://library.medicine.yale.edu">Cushing/Whitney Medical Library</a>, where I coordinate our general education program and make user-friendly guides, tools and, videos that help promote library resources and teach library skills. I'm new to New England by way of Missouri, Tennessee, and, most recently, California. When I'm not working, you can find me kayaking, hiking, dancing to bluegrass music, or checking out a new brewery. Feel free to <a href="mailto:caitlin.e.meyer@gmail.com">reach out</a>, and check out my blog below to hear more about my work.
 						       
-			       
+<BR><BR><BR>			       
 <!-- Posts -->
 <ul id="posts">
 
@@ -15,7 +15,7 @@ Welcome! I'm currently a Research & Education Librarian at Yale's <a href="http:
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
-	  	<p>{{ post.content | strip_html | truncatewords:100 }}</p>
+	  	<p>{{ post.content | truncatewords:100 }}</p>
 	  </li>
 
     {% endfor %}
