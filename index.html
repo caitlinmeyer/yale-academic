@@ -3,13 +3,13 @@ layout: default
 ---
 
 <h2>Hi, I'm Caitlin!</h2>
-<img src="http://caitlinmeyer.github.io/library-blog/img/headshot.png" align="left" style="padding: 15px"><p style="margin-top:20px"</p>I'm a Research & Education Librarian at Yale's <a href="http://library.medicine.yale.edu">Cushing/Whitney Medical Library</a>, where I coordinate our general education program, make guides, tools and, videos, and serve on the marketing committee. I'm interested in online learning, user experience design, and library instruction. I'm new to New England by way of Missouri, Tennessee, and, most recently, California. When I'm not working, you can find me kayaking, hiking, dancing to bluegrass music, or checking out a new brewery.
-<BR>
-Feel free to <a href="mailto:caitlin.e.meyer@gmail.com">reach out!</a>
+<img src="http://caitlinmeyer.github.io/library-blog/img/headshot.png" align="left" style="padding: 20px"><p style="margin-top:20px"</p>
+I'm a Research & Education Librarian at Yale's <a href="http://library.medicine.yale.edu">Cushing/Whitney Medical Library</a>, where I coordinate our general education program and make user-friendly guides, tools and, videos that help promote library resources and teach library skills. I'm new to New England by way of Missouri, Tennessee, and, most recently, California. When I'm not working, you can find me kayaking, hiking, dancing to bluegrass music, or checking out a new brewery. Feel free to <a href="mailto:caitlin.e.meyer@gmail.com">reach out!</a>
 						       
 <BR>
-
-<h2><i>Recent blog posts</i></h2>
+<BR>
+<BR>
+<h2>Recent blog posts</h2>
 						       
 <!-- Posts -->
 <ul id="posts">
@@ -19,7 +19,7 @@ Feel free to <a href="mailto:caitlin.e.meyer@gmail.com">reach out!</a>
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> <i>{{ post.date | date_to_string }}</i> </time>
-	  	<p>{{ post.content | strip_html | truncatewords:150 }}</p>
+	  	<p>{{ post.content | strip_html | truncatewords:0 }}</p>
 	  </li>
 
     {% endfor %}
