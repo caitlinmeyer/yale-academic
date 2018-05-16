@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Blog
 ---
 
 <ul id="posts">
