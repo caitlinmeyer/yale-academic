@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Projects
+title: Projects
 description: Selected projects from librarian Caitlin Meyer
 ---
 
